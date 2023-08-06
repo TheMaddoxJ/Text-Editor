@@ -35,4 +35,4 @@ THEN I should have proper build scripts for a webpack application<br>
 ## URL's:
 
 Repo: https://github.com/TheMaddoxJ/Text-Editor <br>
-Deployed:
+Deployed: https://mj-text-editor-db6eaa75b346.herokuapp.com/ <br>
